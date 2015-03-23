@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;primes&apos; to &apos;Primes&apos;&#x0A;- Original project: &apos;Project 7&apos;&#x0A;- Original element: &apos;primes&apos;&#x0A;- Renamed element: &apos;Primes&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;primes&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{primes.java[primes" matchStrategy="1" name="Primes" qualified="false" references="true" similarDeclarations="true" stamp="1400635322063" textual="false" version="1.0"/>
+</session>
